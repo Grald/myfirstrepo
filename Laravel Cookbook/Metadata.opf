@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1268</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">36bb165c-4cfe-47f4-a51f-24f56461cc0c</dc:identifier>
+        <dc:title>Laravel Application Development Cookbook</dc:title>
+        <dc:creator opf:file-as="Matula, Terry" opf:role="aut">Terry Matula</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.9.42) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-10-24T14:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;Get to grips with a new technology, understand what it is and what it can do for you, and then get to work with the most important features and tasks.A short and precise guide to get you started with EaselJS , helping you to create some cool applications and games.EaselJS greatly simplifies application development in HTML5 Canvas using a syntax and an architecture very similar to the ActionScript 3.0 language. As a result, Flash / Flex developers will immediately feel at home but it’s very easy to learn even if you've never opened Flash in your life. The book targets Web designers, animators, Digital content producers, and Flash and Flex developers.&lt;/p&gt;</dc:description>
+        <dc:publisher>Packt Publishing Ltd</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">AQu8AQAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781782162834</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>Internet</dc:subject>
+        <dc:subject>Application Development</dc:subject>
+        <meta content="{&quot;Terry Matula&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="0.0" name="calibre:rating"/>
+        <meta content="2014-01-16T09:47:24+00:00" name="calibre:timestamp"/>
+        <meta content="Laravel Application Development Cookbook" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Laravel Application Development Cookbook - Terry Matula.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>
